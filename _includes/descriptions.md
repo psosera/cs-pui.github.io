@@ -278,6 +278,19 @@ _Excerpt_ St. Mary’s College of Maryland invites applications for an Open Rank
 
 ------------
 
+### Occidental College
+{: #oxy}
+
+_Excerpt_ The Department of Computer Science at Occidental College invites applications for a tenure‐track or tenured (open rank) Professor of Computer Science with appointment to begin Fall 2025. We seek faculty who work on computation in any of its aspects. Our tenured/tenure-track faculty have a range of backgrounds, with degrees in CS, math, and film and media studies. We are open to applicants with graduate degrees in other fields whose work intersect with computation, as well as applicants without graduate degrees but have substantial experience in creating computational products. We are more than happy to provide mentorship on computing pedagogy and research, and to support candidates in the process towards promotion and tenure. The ideal candidate would engage students in research and projects; collaborate with faculty in the social sciences, the humanities, and the arts; and contribute to the ongoing development of the department.
+
+- Review of applications will begin on **November 15, 2024,** and will continue until the position is filled. Applications received by that date will receive fullest consideration.
+- Los Angeles, CA. USA
+
+[Full Job Posting](https://apply.interfolio.com/153301){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### St. Olaf College
 {: #st-olaf}
 
