@@ -466,6 +466,19 @@ department. Wesleyan values both research and teaching very highly. The teaching
 
 ------------
 
+### Western Washington University
+{: #WWU-ECE}
+
+_Excerpt_ The Electrical and Computer Engineering program at Western Washington University invites applications for two (2) tenure-track assistant professor positions in Electrical and Computer Engineering to begin September 16, 2025.  Exceptional scholars from all fields of electrical and computer engineering are encouraged to apply, especially those who bring expertise in hardware security, embedded systems, or robotics. The two positions offer a unique and exciting opportunity to be part of the growth and development of the program, including the development of new curricula, research areas, and laboratory facilities. Responsibilities include teaching core and service courses in electrical and computer engineering, as well as developing and teaching advanced courses in the candidate’s area of specialization. Scholarship responsibilities include developing and maintaining a relevant program of scholarship that engages our students. Apply at https://hr.wwu.edu/careers-faculty?job=501963 by December 1, 2024.
+  
+- We will begin reviewing applications on **December 1, 2024**, and will continue accepting applications until the positions are filled.  
+- Bellingham, WA. USA
+
+[Full Job Posting](https://hr.wwu.edu/careers-faculty?job=501963){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Williams College
 {: #williams}
 
