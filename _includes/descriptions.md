@@ -110,6 +110,20 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### College of the Atlantic
+{: #coa}
+
+_Excerpt_ The College of the Atlantic (COA) seeks a full-time permanent faculty member in Interdisciplinary Computing. The anticipated start date is Fall 2025. The successful candidate will be the only faculty member teaching in this area at COA. The faculty member will offer a range of classes to help students gain basic to advanced programming skills, while exposing them to the styles of thought and habits of mind associated with coding and computing. The faculty member is expected to help students make connections between computing and other areas of the curriculum, including the arts and humanities as well as the natural and social sciences. 
+
+Interested candidates should submit a CV, a cover letter addressing interest in and qualifications for the position, and a brief statement of teaching that includes a discussion of the roles of computer science in an interdisciplinary curriculum and your approach to and experience with teaching diverse learners. The CV should include contact information for three professional references; please do not have references send letters. For full consideration, please submit all application materials as a single pdf file to [cs-search@coa.edu](mailto:cs-search@coa.edu) by December 2, 2024. Questions about the search should be directed to Dave Feldman, search committee chair, at [dfeldman@coa.edu](mailto:dfeldman@coa.edu).
+
+- Applications are due **December 2, 2024.**
+- Bar Harbor, ME. USA
+
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### College of Wooster
 {: #wooster}
 
