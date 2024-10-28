@@ -38,4 +38,5 @@
 | [Hampden-Sydney College](#hampden-sydney) | Hampden-Sydney, VA. USA| 11/15/2024|
 | [Occidental College](#oxy) | Los Angeles, CA. USA| 11/15/2024|
 | [Lake Forest College](#LFC-cs) | Lake Forest, IL. USA | 11/22/2024|
+| [Western Washington University](#WWU-ECE) | Bellingham, WA. USA | 12/01/2024|
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
