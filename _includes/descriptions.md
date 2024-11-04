@@ -251,6 +251,17 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 [_back to all deadlines_](#deadlines)
 
 ------------
+### Hope College
+{: #hopecollege}
+
+[Excerpt] The Hope College Computer Science department invites applications for a tenure track position to begin in Fall 2025. Primary consideration will be for applicants at the rank of Assistant Professor, although this is an open rank invitation. Successful candidates will have a passion for teaching undergraduate courses across the computer science curriculum, with a strong commitment to cultivating a diverse and inclusive environment. Candidates must have a Ph.D. in Computer Science or a related field. The development of a strong, externally-funded program of collaborative faculty-student scholarship is expected. Start-up funds will be provided. 
+
+- Application review will begin on **January 2, 2025** and will continue until the position is filled
+- Holland, MI, USA
+
+[Full Job Posting](https://jobs.hope.edu/postings/4115){: .button-job} 
+[_back to all deadlines_](#deadlines)
+------------
 
 ### Ithaca College
 {: #ithaca}
