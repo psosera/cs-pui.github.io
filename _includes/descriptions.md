@@ -261,6 +261,7 @@ _Excerpt_ The Department of Mathematics and Computer Science at the College of t
 
 [Full Job Posting](https://jobs.hope.edu/postings/4115){: .button-job} 
 [_back to all deadlines_](#deadlines)
+
 ------------
 
 ### Ithaca College
