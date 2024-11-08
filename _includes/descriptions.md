@@ -21,6 +21,19 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 [_back to all deadlines_](#deadlines)
 
 ------------
+
+### Ball State University
+{: #bsu}
+
+_Excerpt_ The Computer Science Department is seeking a full-time tenure track faculty candidate who is able to teach students from diverse backgrounds in the undergraduate Computer Science major. The primary teaching assignments will be during the academic year in the on-campus Computer Science undergraduate program and in the online Computer Science graduate courses. A specialty in one of our 5 concentrations is welcome, but not required. (The 5 concentrations are: Cybersecurity & Secure Software Design, Data Analytics & Machine Learning, Web & Mobile App Development, Game Design & Development, and General Computer Science.) The candidate should also be able to develop a dynamic research program that will advance the research opportunities for undergraduates.
+
+- Applications received by **November 14, 2024,** will be assured of full consideration. Review of applications will continue until the position is filled.
+- Muncie, IN. USA
+
+[Full Job Posting](https://bsu.peopleadmin.com/postings/45290){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
 ### Bard College - Computer Science
 {: #bard-cs}
 
