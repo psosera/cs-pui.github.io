@@ -123,6 +123,25 @@ _Excerpt_ Carleton College invites applications for a tenure-track position in c
 
 ------------
 
+### California Polytechnic State University, San Luis Obispo
+{: #calpoly }
+
+_Excerpt_ The Computer Science and Software Engineering Department in the College of Engineering at California Polytechnic State University in San Luis Obispo, California (Cal Poly) is excited to invite applications for a full-time, academic year, tenure-track faculty position at the Assistant Professor rank beginning Fall 2025.
+
+The successful candidate will be expected to teach undergraduate and master's level courses, support and expand curricular development in Computer Science and Software Engineering, pursue research in one's area of expertise, and provide service to the department, the university, and the community. Qualified candidates with teaching interests in the department's areas of need (see “Preferred Qualifications” below) are strongly encouraged to apply.
+
+Salary will be commensurate with education and experience of the individual selected. Qualified candidates with industry experience are encouraged to apply. Anticipated hiring range: $110,250 – $123,500 per year.
+
+For questions, please contact search committee chair Jonathan Ventura via [jventu09@calpoly.edu](mailto:jventu09@calpoly.edu).
+
+- Applications are due **Decemberr 9, 2024**
+- San Luis Obispo, CA. USA
+
+[Full Job Posting](https://jobs.calpoly.edu/en-us/job/541586/assistant-professor-computer-science-and-software-engineering-ay-2526){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### College of the Atlantic
 {: #coa}
 
