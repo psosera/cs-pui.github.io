@@ -151,6 +151,7 @@ Interested candidates should submit a CV, a cover letter addressing interest in 
 
 - Applications are due **December 2, 2024.**
 - Bar Harbor, ME. USA
+  
 [Full Job Posting](https://www.coa.edu/human-resources/careers/){: .button-job}
 [_back to all deadlines_](#deadlines)
 
