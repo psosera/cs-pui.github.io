@@ -13,7 +13,6 @@
 | [College of the Holy Cross - All Areas](#holy-cross) |Worcester, MA. USA | 10/08/2024 |
 | [College of the Holy Cross - Ethics in CS](#holy-cross-ethics) |Worcester, MA. USA | 10/08/2024 |
 | [Davidson College](#davidson) |Davidson, NC. USA | 10/08/2024 |
-| [Grinnell College](#grinnell) | Grinnell, IA. USA | 10/11/2024 |
 | [University of Mary Washington](#umw) | Fredericksburg, VA. USA | 10/11/2024 |
 | [Vassar College](#vassar) | Poughkeepsie, NY. USA | 10/13/2024 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 10/14/2024 |
@@ -44,4 +43,5 @@
 | [College of the Atlantic](#coa) | Bar Harbor, ME. USA | 12/02/2024|
 | [Cal Poly, San Luis Obispo](#calpoly) | San Luis Obispo, CA. USA | 12/09/2024 |
 | [Hope College](#hopecollege) | Holland MI, USA | 01/02/2025 |
+| [Grinnell College](#grinnell) | Grinnell, IA. USA | 02/28/2025 |
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |

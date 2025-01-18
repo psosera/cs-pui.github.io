@@ -225,12 +225,12 @@ _Excerpt_ Franklin & Marshall College invites applications for a tenure-track po
 ### Grinnell College
 {: #grinnell }
 
-_Excerpt_ The Department of Computer Science invites applications for _two tenure-track appointments_ beginning Fall 2025. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. We are eager to consider candidates who conduct research in any area of Computer Science. For one of the positions, the department will prioritize candidates interested in teaching courses in systems or software design and development. Candidates with degrees in closely related fields will also be considered. Candidates are expected to describe the ways they can support and engage with students and colleagues from historically underrepresented or marginalized groups.
+_Excerpt_ The Department of Computer Science invites applications for a 2-year and 3-year term appointment with the possibility of renewal beginning Fall 2025. Assistant Professor (Ph.D.) preferred; Instructor (ABD) or Associate Professor possible. Candidates with research and teaching interests in any area of Computer Science are encouraged to apply. Candidates with degrees in closely related fields who have relevant experience will also be considered. Term contract renewals are subject to departmental and college priorities and budget availability. The teaching load is five courses (or equivalent; some classes with a significant lab component are credited as 1.5 courses) over two semesters. Additional information about our curriculum and faculty can be found at <https://www.cs.grinnell.edu>.
 
-- We will begin reviewing applications on **October 11, 2024** and will continue until the positions are filled.
+- We will begin reviewing applications on **February 28, 2025** and will continue until the positions are filled.
 - Grinnell, IA. USA.
 
-[Full Job Posting](http://apply.interfolio.com/153674){: .button-job}
+[Full Job Posting](https://apply.interfolio.com/162175){: .button-job}
 [_back to all deadlines_](#deadlines)
 
 -----------
