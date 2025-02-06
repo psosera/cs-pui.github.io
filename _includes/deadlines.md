@@ -44,4 +44,5 @@
 | [Cal Poly, San Luis Obispo](#calpoly) | San Luis Obispo, CA. USA | 12/09/2024 |
 | [Hope College](#hopecollege) | Holland MI, USA | 01/02/2025 |
 | [Grinnell College](#grinnell) | Grinnell, IA. USA | 02/28/2025 |
+| [Union College](#union) | Schenectady, NY, USA | 02/28/2025 |
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
