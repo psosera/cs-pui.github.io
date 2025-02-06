@@ -479,9 +479,22 @@ _Excerpt_ The Computer Science Department at Swarthmore College invites applicat
 - Swarthmore, PA. USA
 
 [Full Job Posting](https://apply.interfolio.com/151923){: .button-job} 
+[
+
+------------
+### Union College
+{: #union}
+
+_Excerpt_ Union College in Schenectady, New York, invites applications for a three-year faculty position in Computer Science at the rank of Visiting Assistant Professor, beginning September 2025.  The area of expertise is open. The ideal candidate will be enthusiastic about teaching, supervising undergraduate research, sustaining an independent research program, and providing service to the department. We welcome applicants from all areas of expertise, including those that can further strengthen connections between computer science and the liberal arts. A Ph.D. in computer science or a related area, either completed or close to completed, is required.  This visiting position involves teaching the equivalent of two courses in each of three trimesters and serving as an academic advisor.  Advising senior projects counts towards this teaching load.  The successful candidate can expect to teach core CS classes along with courses in their area(s) of expertise.  Preference will be given to candidates able to contribute to our data analytics program or otherwise interested in teaching courses at the interface of CS and other fields, such as the natural sciences, mathematics, or the humanities.  We welcome applications from members of groups traditionally underrepresented in the field.  Preference will be given to candidates with a demonstrated ability to contribute to the inclusion of groups that are underrepresented in computer science through teaching, research, and/or service.
+
+- We will begin reviewing applications starting **February 28, 2025**, and will continue until the position is filled.
+- Schenectady, NY, USA
+
+[Full Job Posting](https://cs.union.edu/jobs/)
 [_back to all deadlines_](#deadlines)
 
 ------------
+
 
 ### University of Mary Washington
 {: #umw}
