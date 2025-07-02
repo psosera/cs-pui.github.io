@@ -22,6 +22,20 @@ _Excerpt_ The Computer Science Department at Skidmore College invites applicatio
 [Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2797/){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
+
+------------
+
+### St. Bonaventure University
+{: #st-bonaventure}
+
+_Excerpt_ The Department of Computer Science at St. Bonaventure University invites applications for a tenure-track Assistant Professor to begin in either January or August of 2026. Current department research interests include AI & religion, collaborative data systems for social impact, natural language processing, and cybersecurity. 
+
+- Review of applications will begin on **July 31, 2025**, and will continue until the position is filled.
+- St. Bonaventure, NY. USA
+
+[Full Job Posting](https://www.schooljobs.com/careers/sbuedu/jobs/4965067/assistant-professor-of-computer-science){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
 ------------
 
 ### St. Olaf College
