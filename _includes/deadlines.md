@@ -1,7 +1,7 @@
 
 | **Institution** | **Location** | **App Deadline** |
 | :----       | :---       | :--- |
-| [Amherst College - Data Structures &amp; Algorithm](#amherst-data) |Amherst, MA. USA | 03/01/2025 |
+| [Amherst College - Data Structures &amp; Algorithms](#amherst-data) |Amherst, MA. USA | 03/01/2025 |
 | [Amherst College - Systems](#amherst-systems) |Amherst, MA. USA | 03/01/2025 |
 | [St. Bonaventure](#st-bonaventure) | St. Bonaventure, NY. USA | 07/31/2025 |
 | [Skidmore College](#skidmore) | Saratoga Springs, NY. USA | 10/01/2025 |
