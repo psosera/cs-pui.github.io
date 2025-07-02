@@ -46,3 +46,4 @@
 | [Grinnell College](#grinnell) | Grinnell, IA. USA | 02/28/2025 |
 | [Union College](#union) | Schenectady, NY, USA | 02/28/2025 |
 | [Stonehill College](#stonehill) | Easton, MA. USA | Rolling |
+| [Skidmore College](#skidmore) | Saratoga Springs, NY. USA | 10/1/2025 |
