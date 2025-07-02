@@ -6,7 +6,7 @@ title: Post an Ad
 
 <!-- ## Adding your position to CS-PUI (2022/23) -->
 
-💡 You can email `jcrouser@smith.edu` if you run into any problems or need help.
+💡 You can email `crouser1`@kenyon.edu` if you run into any problems or need help.
 {: .notice .notice-blue}
 
 While we often post positions quickly after they are publicized, departments can also add their own advertisements to the site. **Make sure your department and university aligns with the website criteria**. [See the criteria](index#criteria)
