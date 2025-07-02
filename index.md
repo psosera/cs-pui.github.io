@@ -30,7 +30,7 @@ This document does _not_ contain most CS faculty positions. It's specifically in
 
 ------------
 
-# Who is hiring in CS so far (2024/25)
+# Who is hiring in CS so far (2025-2026)
 
 
 ## 📋 Deadlines and Quick Links (_soonest on top_)
