@@ -19,7 +19,7 @@ _Excerpt_ The Computer Science Department at Skidmore College invites applicatio
 - Review of applications begins **October 1, 2025** and continues until the position is filled.
 - Saratoga Springs, NY. USA
 
-[Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2797/?utm_medium=jobshare&utm_source=External+Job+Share){: .button-job} 
+[Full Job Posting](https://eodq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2797/){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -31,3 +31,6 @@ _Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS)
 
 - Review of applications will begin on October 17, 2025, and will continue until the position is filled.
 - Northfield, MN. USA
+
+[Full Job Posting](https://fa-ewur-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/2052/){: .button-job} 
+[_back to all deadlines_](#deadlines)
