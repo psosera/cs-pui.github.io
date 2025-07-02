@@ -29,7 +29,7 @@ _Excerpt_ The Computer Science Department at Skidmore College invites applicatio
 
 _Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS) at St. Olaf College invites applications for a full-time, tenure track position in Computer Science at the Assistant Professor level, to begin August 2026. We are looking for candidates with a PhD in Computer Science or a closely related field, and who can contribute broadly to our growing computer science program through teaching, research, and supervision of undergraduate research.
 
-- Review of applications will begin on October 17, 2025, and will continue until the position is filled.
+- Review of applications will begin on **October 17, 2025**, and will continue until the position is filled.
 - Northfield, MN. USA
 
 [Full Job Posting](https://fa-ewur-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/2052/){: .button-job} 
