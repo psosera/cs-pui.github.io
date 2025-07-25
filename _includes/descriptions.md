@@ -22,7 +22,7 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 [_back to all deadlines_](#deadlines)
 
 ------------
-### Furman College
+### Furman University
 {: #furman}
 
 _Excerpt_ The Department of Computer Science at Furman University invites applications for two tenure track positions at the Assistant, Associate, or Full Professor rank to begin August 1, 2026. We are specifically seeking at least one candidate with expertise in data science, including machine learning, data visualization, and statistical modeling, who can develop and teach courses in our expanding data science curriculum while mentoring undergraduate research in this growing field. Candidates in all areas of specialization will be considered for the second position. Candidates must have a Ph.D. in Computer Science or a closely related field. The position requires a demonstrated potential for superb teaching, including the ability to work with a diverse population of students, development of a program of scholarly and professional activity involving undergraduates with a broad spectrum of backgrounds and abilities, effective institutional service, and a willingness to work with colleagues across disciplines.
