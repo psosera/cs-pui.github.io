@@ -49,6 +49,19 @@ _Excerpt_  The Department of Computer Science at Furman University invites appli
 
 ------------
 
+### College of the Holy Cross
+{: #holycross}
+
+The Computer Science Program at the College of the Holy Cross invites applications for two full-time tenure-track Assistant Professor positions to begin in August 2026. All research specialties will be considered. Priority will be given to candidates whose research expertise and teaching interests are in computer systems, consider ethical or social issues in computing and technology, or any other area that complements the research expertise of the current computer science faculty. Candidates whose research area considers ethical or social issues in computing and technology will be considered for the Barrett Assistant Professorship in Computer Science.
+
+- For full consideration, please apply by **October 7, 2025**. 
+- Worcester, MA. USA
+
+[Full Job Posting](https://apply.interfolio.com/171639){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Oberlin College
 {: #oberlin}
 
@@ -116,14 +129,15 @@ _Excerpt_ The Department of Mathematics, Statistics, and Computer Science (MSCS)
 
 ------------
 
-### College of the Holy Cross
-{: #holycross}
+### Williams College
+{: #williams}
 
-The Computer Science Program at the College of the Holy Cross invites applications for two full-time tenure-track Assistant Professor positions to begin in August 2026. All research specialties will be considered. Priority will be given to candidates whose research expertise and teaching interests are in computer systems, consider ethical or social issues in computing and technology, or any other area that complements the research expertise of the current computer science faculty. Candidates whose research area considers ethical or social issues in computing and technology will be considered for the Barrett Assistant Professorship in Computer Science.
+_Excerpt_ The Department of Computer Science at Williams College invites applications for two tenure-track faculty positions, one at the assistant professor level and one open-rank, beginning July 1, 2026. The Assistant Professor position is a tenure-track position. The rank and initial term of the open-rank position will be determined by the qualifications of the successful candidate. We welcome candidates from all backgrounds and areas of computer science who can contribute to the vibrancy of our academic community through their research, teaching, and service for both positions.
 
-- For full consideration, please apply by **October 7, 2025**. 
-- Worcester, MA. USA
+- Completed applications received by **October 1, 2025** will receive full consideration, and review of applications will continue until the position is filled.
+- Williamstown, MA. USA
 
-[Full Job Posting](https://apply.interfolio.com/171639){: .button-job} 
+[Full Job Posting](https://csci.williams.edu/tenure-track-faculty-positions-in-computer-science/){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
+------------
