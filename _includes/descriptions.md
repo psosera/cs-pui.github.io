@@ -62,6 +62,19 @@ The Computer Science Program at the College of the Holy Cross invites applicatio
 
 ------------
 
+### Hope College
+{: #hope}
+
+_Excerpt_ Hope College's Department of Computer Science seeks a full-time, tenure-track Assistant Professor starting Fall 2026 (higher ranks considered). We welcome applicants from all areas, with preference for those whose interests broaden and complement departmental strengths. As a Christian liberal arts college, Hope integrates faith and scholarship in a vibrant, inclusive academic community, offering a 3-3 teaching load, small class sizes, and strong support for research with undergraduates. Located in Holland, Michigan, just minutes from Lake Michigan, Hope provides a family-friendly environment and proximity to major cities.
+
+- Review of applications will begin on **November 1, 2025**, and will continue until the position is filled.
+- Holland, MI. USA
+
+[Full Job Posting](https://jobs.hope.edu/postings/4726){: .button-job} 
+[_back to all deadlines_](#deadlines)
+
+------------
+
 ### Oberlin College
 {: #oberlin}
 
