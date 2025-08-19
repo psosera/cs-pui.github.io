@@ -22,15 +22,42 @@ _Excerpt_ The Amherst College Department of Computer Science invites application
 [_back to all deadlines_](#deadlines)
 
 ------------
-### Furman University
-{: #furman}
 
-_Excerpt_ The Department of Computer Science at Furman University invites applications for two tenure track positions at the Assistant, Associate, or Full Professor rank to begin August 1, 2026. We are specifically seeking at least one candidate with expertise in data science, including machine learning, data visualization, and statistical modeling, who can develop and teach courses in our expanding data science curriculum while mentoring undergraduate research in this growing field. Candidates in all areas of specialization will be considered for the second position. Candidates must have a Ph.D. in Computer Science or a closely related field. The position requires a demonstrated potential for superb teaching, including the ability to work with a diverse population of students, development of a program of scholarly and professional activity involving undergraduates with a broad spectrum of backgrounds and abilities, effective institutional service, and a willingness to work with colleagues across disciplines.
+### Furman University - Data Science
+{: #furman-data}
 
-- Review of applications will commence on September 1, 2025 and will continue until the position is filled.
+_Excerpt_  The Department of Computer Science at Furman University invites applications for two tenure track positions at the Assistant, Associate, or Full Professor rank to begin August 1, 2026. We are specifically seeking at least one candidate with expertise in data science, including machine learning, data visualization, and statistical modeling, who can develop and teach courses in our expanding data science curriculum while mentoring undergraduate research in this growing field. 
+
+- Review of applications begins **September 1, 2025** and continues until the position is filled.
 - Greenville, SC. USA
 
-[Full Job Posting](https://furman.wd5.myworkdayjobs.com/Furman_Careers/job/Main-Campus/Tenure-Track-Professor-in-Computer-Science_R002898){: .button-job} 
+[Full Job Posting](https://furman.wd5.myworkdayjobs.com/Furman_Careers/job/Main-Campus/Tenure-Track-Professor-in-Computer-Science_R002898){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Furman University - Any Specialization
+{: #furman-any}
+
+_Excerpt_  The Department of Computer Science at Furman University invites applications for two tenure track positions at the Assistant, Associate, or Full Professor rank to begin August 1, 2026. Candidates in all areas of specialization will be considered for the second position.
+
+- Review of applications begins **September 1, 2025** and continues until the position is filled.
+- Greenville, SC. USA
+
+[Full Job Posting](https://furman.wd5.myworkdayjobs.com/Furman_Careers/job/Main-Campus/Tenure-Track-Professor-in-Computer-Science_R002898){: .button-job}
+[_back to all deadlines_](#deadlines)
+
+------------
+
+### Oberlin College
+{: #oberlin}
+
+[Excerpt] The Computer Science Department at Oberlin College invites applications for a full-time tenure track faculty position in the College of Arts and Sciences in Artificial Intelligence and Machine Learning. Initial appointment to this position will be for a term of four years beginning Fall of 2026, with an additional three years upon reappointment, and will carry the rank of Assistant Professor. ... Faculty members teach at all levels of the curriculum, and are active in original research that provides opportunities for undergraduate participation. Many of our majors go on to earn advanced degrees for leading CS graduate programs. Our majors are enthusiastic and actively engaged in their education. The Oberlin Computer Science department is dedicated to making CS accessible to all students, and uses active learning and other evidence-based pedagogies throughout our curriculum. The incumbent will teach the standard teaching load (4.5 courses per year with labs counting towards the total) at all levels of undergraduate Computer Science.) This will include junior/senior-level elective courses in Artificial Intelligence and Machine Learning.
+
+- Review of applications will begin on **October 15, 2025,** and will continue until the position is filled. Completed applications received by the October 15th deadline will be guaranteed full consideration.
+- Oberlin, OH. USA
+
+[Full Job Posting](https://jobs.oberlin.edu/postings/16650){: .button-job} 
 [_back to all deadlines_](#deadlines)
 
 ------------
@@ -74,6 +101,7 @@ _Excerpt_ The Department of Computer Science at St. Bonaventure University invit
 [_back to all deadlines_](#deadlines)
 
 ------------
+
 
 ### St. Olaf College
 {: #st-olaf}
