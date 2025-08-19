@@ -7,6 +7,8 @@
 | [Mount Holyoke College - Data Science](#mount-holyoke-data) | South Hadley, MA. USA | 9/25/2025 |
 | [Skidmore College](#skidmore) | Saratoga Springs, NY. USA | 10/01/2025 |
 | [Williams College](#williams) | Williamstown, MA. USA | 10/01/2025 |
+| [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/7/2025 |
 | [Oberlin College](#oberlin) | Oberlin, OH. USA | 10/15/2025 |
 | [St. Olaf College](#st-olaf) | Northfield, MN. USA | 10/17/2025 |
-| [College of the Holy Cross](#holycross) | Worcester, MA. USA | 10/7/2025 |
+| [Hope College](#hope) | Holland, MI. USA | 10/31/2025 |
+
